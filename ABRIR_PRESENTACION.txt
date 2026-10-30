@@ -1,0 +1,6 @@
+1. Extraé todos los archivos del ZIP.
+2. Hacé clic derecho en SBO_XOREN.html.
+3. Elegí Abrir con > Google Chrome o Microsoft Edge.
+
+La presentación funciona sin conexión a Internet.
+Usá las flechas para cambiar de escena y N para ver el guion.
